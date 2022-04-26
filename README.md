@@ -1,8 +1,6 @@
 ### Paulo Vidal Pereira 👋
 
-#### Sou um Full-Stack Developer trabalhando em Curitiba, Brasil.
-
-##### BIO
+Sou um Full-Stack Developer trabalhando em Curitiba, Brasil.
 
 - 🏢 Trabalho atualmente na **i9 Supply**
   
@@ -12,7 +10,7 @@
   <a href="https://www.linkedin.com/in/paulovidalpereira" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### GitHub Stats
+##### GitHub Stats
 
 <div>
   <a href="https://github.com/tgmarinho">
