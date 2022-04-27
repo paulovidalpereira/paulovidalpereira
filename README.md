@@ -13,10 +13,8 @@ Sou um Full-Stack Developer trabalhando em Curitiba, Brasil.
 ##### GitHub Stats
 
 <div>
-  <a href="https://github.com/paulovidalpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovidalpereira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovidalpereira&layout=compact&langs_count=7&theme=default"/>
-  </a>
 </div>
   
 <!--
