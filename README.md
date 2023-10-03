@@ -10,8 +10,8 @@ Sou um Full-Stack Developer trabalhando em Curitiba, Brasil.
   <a href="https://www.linkedin.com/in/paulovidalpereira" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<!--
 ##### GitHub Stats
-
 <div>
   <a href="https://github.com/paulovidalpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovidalpereira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@ Sou um Full-Stack Developer trabalhando em Curitiba, Brasil.
   </a>
 </div>
   
-<!--
+
 **paulovidalpereira/paulovidalpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
