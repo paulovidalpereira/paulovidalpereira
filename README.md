@@ -1,8 +1,13 @@
 ### Paulo Vidal Pereira 👋
 
+<!--
 Sou um Full-Stack Developer trabalhando em Curitiba, Brasil.
+-->
+Sou um Full-Stack Developer especializado no framework Laravel.
 
+<!--
 - 🏢 Trabalho atualmente na **i9 Supply**
+-->
   
 ##### Aonde me achar
 <p>
